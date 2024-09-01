@@ -1,3 +1,18 @@
-body {
-    background: linear-gradient(lightgray, white, gray);
-}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+   
+    font-weight: 500; }
+    
+    .h {
+        background-color: rgb(7, 109, 172);
+    }
+    p {
+        font-size: larger;
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    
